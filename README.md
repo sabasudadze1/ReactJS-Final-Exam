@@ -4,4 +4,6 @@ https://planthoptbilisi.netlify.app/
 
 ##INSTRUCTIONS
 npm install
+
+##
 npm start
